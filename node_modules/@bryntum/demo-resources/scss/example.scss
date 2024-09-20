@@ -1,0 +1,11 @@
+/**
+ * Shared scss file
+ */
+@import '../fonts/poppins';
+@import 'header';
+@import 'toolbar';
+@import 'common';
+
+#title {
+    background : url('~@bryntum/demo-resources/images/bryntum-symbol-white.svg') no-repeat;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "@bryntum/demo-resources",
+  "version": "1.3.0",
+  "description": "The resources used by Bryntum examples",
+  "keywords": [
+    "bryntum",
+    "gantt",
+    "project",
+    "grid",
+    "scheduler",
+    "demo",
+    "example",
+    "resource"
+  ],
+  "author": {
+    "name": "Bryntum",
+    "url": "https://bryntum.com",
+    "email": "info@bryntum.com"
+  },
+  "license": "Commercial",
+  "homepage": "https://bryntum.com/products/taskboard/examples",
+  "bugs": "https://github.com/bryntum/support/issues",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "browserslist": ["last 2 versions"],
+  "dependencies": { },
+  "devDependencies": { },
+  "types": ""
+}
