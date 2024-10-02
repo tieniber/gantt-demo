@@ -24,14 +24,14 @@
                 <attributeTypes>
                         <attributeType name="AutoNumber" />
                         <attributeType name="Integer" />
-                        <attributeType name="String" />
                     </attributeTypes>
             </property>
             <property key="parentId" type="attribute" required="true" dataSource="objectList">
                 <caption>Parent ID</caption>
                 <description></description>
                 <attributeTypes>
-                    <attributeType name="String"/>
+                    <attributeType name="AutoNumber" />
+                    <attributeType name="Integer" />
                 </attributeTypes>
             </property>
             <property key="taskName" type="attribute" required="true" dataSource="objectList">
